@@ -1,7 +1,7 @@
 # talks
-Date | Title of Talk | Title of Conference | Location
-------------------------------------------------------
-02/21/2018 | "[Talking about things is hard: Creating common ground with your audience](https://docs.google.com/presentation/d/1l6rpvGgQ4h6AnxwQJl8BlrKowc1CcOlBb9PEfhqP0Ek/edit?usp=sharing)" | NCEAS Roundtable | Santa Barbara, CA
+| Date | Title of Talk | Title of Conference | Location |
+| ------|--------------|---------------------|-----------|
+|02/21/2018 | "[Talking about things is hard: Creating common ground with your audience](https://docs.google.com/presentation/d/1l6rpvGgQ4h6AnxwQJl8BlrKowc1CcOlBb9PEfhqP0Ek/edit?usp=sharing)" | NCEAS Roundtable | Santa Barbara, CA|
 * 11/16/2017 "[Ethics + Access + Data](https://docs.google.com/presentation/d/1Jg83uFGM5UZ9L_pAZtvA9HKv9fuf-yyp7ungFqY4YDE/edit#slide=id.g28580ddad0_0_50)" - IARC Salon, Fairbanks, AK 
 * 10/19/2017 "[Mapping Alaska, Mapping Change](https://2017.stateofthemap.us/program/mapping-alaska.html)" - State of the Map US, Boulder, CO 
 * 08/04/2017 "[Docker containters for NDVI snow metrics analysis](https://github.com/gina-alaska/emodis_ndvi_python-docker/blob/master/README.md)" - Polar Cyber Infrastructure Hackathon, Stony Brook, NY
