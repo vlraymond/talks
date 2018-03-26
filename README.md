@@ -1,7 +1,7 @@
 # talks
 | Date | Title of Talk | Title of Conference | Location |
 | ------|--------------|---------------------|-----------|
-|03/23/2018 | Research to Exhibits: Data Management Plays a Part| 45th Alaska Anthropological Association | Anchroage, AK|
+|03/23/2018 | [Research to Exhibits: Data Management Plays a Part](https://docs.google.com/presentation/d/1BwTl5oMSmHwbtCL4__oLPxyC9PKDmeaCymWoN6lg9U4/edit#slide=id.g3522786a10_0_3)| 45th Alaska Anthropological Association | Anchroage, AK|
 |02/21/2018 | [Talking about things is hard: Creating common ground with your audience](https://docs.google.com/presentation/d/1l6rpvGgQ4h6AnxwQJl8BlrKowc1CcOlBb9PEfhqP0Ek/edit?usp=sharing) | National Center for Ecological Analysis and Synthesis (NCEAS) Roundtable | Santa Barbara, CA|
 |11/16/2017 |[Ethics + Access + Data](https://docs.google.com/presentation/d/1Jg83uFGM5UZ9L_pAZtvA9HKv9fuf-yyp7ungFqY4YDE/edit#slide=id.g28580ddad0_0_50)| International Arctic Research Center (IARC) Salon| Fairbanks, AK |
 |10/19/2017 | [Mapping Alaska, Mapping Change](https://2017.stateofthemap.us/program/mapping-alaska.html) | Open Street Maps' State of the Map US (OSM SOTMUS)| Boulder, CO |
