@@ -1,7 +1,7 @@
 # talks
 | Date | Title of Talk | Title of Conference | Location |
 | ------|--------------|---------------------|-----------|
-|05/2/2019  | [What's in a portal: A comparison of Arctic Data portals](https://docs.google.com/presentation/d/1cAdh7bROrun_EgMC-pTZ-MUhNlfKxNyxNTZP9muQLo0/edit?usp=sharing) | 2019 North by North Anchorage Research Summit | Anchorage, AK |
+|05/2/2019  | [Desire and Arctic Data Portala: A qualitative comparison](https://docs.google.com/presentation/d/1cAdh7bROrun_EgMC-pTZ-MUhNlfKxNyxNTZP9muQLo0/edit?usp=sharing) | 2019 North by North Anchorage Research Summit | Anchorage, AK |
 |04/15/2018 | [How Might Data Management Better Support Indigenous Communities?]() | 2018 Alaska Native Studies Conference | Juneau, AK|
 |04/05/2018 | [Making a Way Forward: Data Management for the Arctic](https://docs.google.com/presentation/d/1oM6CjVlSJ22OQWci9o8HbQMi0MCDkFlVgjUTYesqyc4/edit#slide=id.g3522786a10_0_3)| 48th International Arctic Workshop | Boulder, CO |
 |03/23/2018 | [Research to Exhibits: Data Management Plays a Part](https://docs.google.com/presentation/d/1BwTl5oMSmHwbtCL4__oLPxyC9PKDmeaCymWoN6lg9U4/edit#slide=id.g3522786a10_0_3)| 45th Alaska Anthropological Association | Anchroage, AK|
