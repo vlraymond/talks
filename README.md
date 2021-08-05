@@ -13,5 +13,6 @@
 |06/07/2017 | Incubating for tech education, maker culture, and skills needed for data science in Alaska | West Big Data Hub All Hands | online|
 |03/2/2017 |[Building University Capacity to visualize sollutions to complex problems in the Arctic](https://www.alaska.edu/files/epscor/Data_to_Decisions/D2D-Raymond.pdf) | Association of Polar Early Career Scientists (APECS)| online|
 | 02/13/2017 |Data Bites - How to make data work for you and your tribe| Kenaitze Tribal Headquarters| Kenai, AK|
+|05/26/2016 | [RDFViz Event Video Series: Crowdmapping, Participation, Value with Vanessa Raymond and Mikel Maron](https://vimeo.com/168241871) | The Engine Room | New York, NY
 |03/14/2016 |Developing for communities, the Arctic Adaptation Exchange Portal | Arctic Science Summit Week (ASSW) |Fairbanks, AK|
 |11/16/2015 |[Plug and Play?: Strengths and limitations of out-of-the-box webbased tools for text analysis and visualization](https://www.alaska.edu/files/epscor/Data_to_Decisions/D2D-Raymond.pdf)| Data to Decisions Conference| Fairbanks, AK|
