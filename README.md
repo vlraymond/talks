@@ -1,6 +1,8 @@
 # talks
 | Date | Title of Talk | Title of Conference | Location |
 | ------|--------------|---------------------|-----------|
+| 2023 | Human Rights Fundamentals underpinning Indigenous Data Sovereignty| NOOA National Marine Fisheries Service meeting | virtual |
+| 2023 | Human Rights Fundamentals underpinning Indigenous Data Sovereignty| Long Term Ecological Research Information Managers meeting | virtual |
 |5/18/2023| [Just Add Water: Data Management Plans for you and all of your friends](https://docs.google.com/presentation/d/1SsKQqKKr8wvJnY4Sozg7aOsO9bDCAnoTc4OpIthCCso/edit?usp=sharing)| Alaska Center for Energy and Power | Fairbanks, AK & virtual |
 |2/19/2022 - 2/21/2022| [Workshop on K-12 participation in University-level science](https://www.convenenorth.com/aste-gallery-2022) |Alaska Society for Technology Educators 2022] | virtual
 |Fall - Winter 2021| Equitable and Ethical Engagement Summit | Inuit Circumpolar Council | virtual
