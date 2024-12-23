@@ -1,6 +1,7 @@
 # talks
 | Date | Title of Talk | Title of Conference | Location |
 | ------|--------------|---------------------|-----------|
+|May 2024| Community led research and Indigenous Data Sovereignty | Canadian Polar Data workshop V| virtual|
 | May 2024 | Abundant Intelligences |Gathering Indigenous Science, Technology, and Environment | Toronto, ON |
 |March 2024 | [Indigenous Data Sovereignty Part 1: Technical capacities](https://www.youtube.com/watch?v=kEiYoJYCnIU&t=2s)| Arctic Observing Summit | Edinburgh, Scotland|
 | January 2024 | [Indigenous Knowledges & AI - Data Dreams, data futures](https://www.youtube.com/live/ca6OCK6ZYOM?feature=shared) | Indigenous Futures Research Center Symposium 2024 | Montreal, QC |
