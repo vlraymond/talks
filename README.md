@@ -1,6 +1,8 @@
 # talks
 | Date | Title of Talk | Title of Conference | Location |
 | ------|--------------|---------------------|-----------|
+|March 2024 | [Indigenous Data Sovereignty Part 1: Technical capacities](https://www.youtube.com/watch?v=kEiYoJYCnIU&t=2s)| Arctic Observing Summit | Edinburgh, Scotland|
+| January 2024 | [Indigenous Knowledges & AI - Data Dreams, data futures](https://www.youtube.com/live/ca6OCK6ZYOM?feature=shared) | Indigenous Futures Research Center Symposium 2024 | Montreal, QC |
 | October 2023 | Human Rights Fundamentals underpinning Indigenous Data Sovereignty| NOOA National Marine Fisheries Service meeting | virtual |
 | June 2023 | [What you really need to know: A data management conversation](https://www.youtube.com/watch?v=jBsFT8xONhI) | IARPC | virtual
 | 2023 | Human Rights Fundamentals underpinning Indigenous Data Sovereignty| Long Term Ecological Research Information Managers meeting | virtual |
